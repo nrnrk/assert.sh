@@ -1,4 +1,4 @@
-name: bash_test
+name: test
 
 on:
   push:

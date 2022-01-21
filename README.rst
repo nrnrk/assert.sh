@@ -4,7 +4,9 @@
 
 **assert.sh** is test-driven development in the Bourne again shell.
 
-This repository is forked from [here](https://raw.github.com/lehmannro/assert.sh).
+This repository is forked from `here`__. For now, this repository is not different than the original except for CI.
+
+__ https://github.com/lehmannro/assert.sh
 
 .. image:: https://github.com/nrnrk/assert.sh/actions/workflows/bash.yml/badge.svg
    :target: https://github.com/nrnrk/assert.sh/actions
